@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" role="img" aria-label="Addepalli Bharat Sai, software engineer building AI products for music rights, catalogues and the web">
+  <rect width="1600" height="420" fill="#12130f"/>
+  <g fill="none" stroke="#d9f24f" opacity=".18">
+    <circle cx="1370" cy="150" r="210"/>
+    <circle cx="1370" cy="150" r="150"/>
+    <circle cx="1370" cy="150" r="90"/>
+    <circle cx="1370" cy="150" r="30"/>
+  </g>
+  <g fill="#d9f24f" opacity=".7">
+    <circle cx="1370" cy="150" r="6"/>
+  </g>
+  <g stroke="#f2efe4" opacity=".16">
+    <line x1="1080" y1="300" x2="1520" y2="300"/>
+    <line x1="1120" y1="318" x2="1480" y2="318"/>
+    <line x1="1160" y1="336" x2="1440" y2="336"/>
+  </g>
+  <text x="80" y="92" fill="#d9f24f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="4">SOFTWARE ENGINEER · VISAKHAPATNAM, IN</text>
+  <text x="76" y="214" fill="#f2efe4" font-family="Georgia, 'Times New Roman', serif" font-size="92" letter-spacing="-2">Addepalli <tspan font-style="italic" fill="#d9f24f">Bharat</tspan> Sai</text>
+  <text x="80" y="280" fill="#f2efe4" opacity=".82" font-family="Helvetica Neue, Arial, sans-serif" font-size="27">AI products for music rights, catalogues and the web.</text>
+  <line x1="80" y1="326" x2="1520" y2="326" stroke="#f2efe4" opacity=".18"/>
+  <text x="80" y="366" fill="#f2efe4" opacity=".62" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="2.4">ROYALTY INTELLIGENCE · CATALOGUE AI · REAL-TIME VOICE</text>
+</svg>
